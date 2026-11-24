@@ -1,0 +1,7 @@
+Hello!
+Thank you for downloading my 1.1 mushrooms pack!
+
+1.0-1.1 Update Notes:
+- cleaned .blend files
+- fixed .glb file textures
+- removed .fbx files (I don't know how to get the textures to work. they are still included in 1.0 if you would like to attempt to use them)
